@@ -1,0 +1,16 @@
+{
+    "blogs": [
+		{
+			"title": "blog1",
+			"fileName": "why_i_left.txt",
+			"dateCreated": "18-04-2014",
+			"id": "goldman"
+		},
+		{
+			"title": "blog2",
+			"fileName": "number10.txt",
+			"dateCreated": "29-04-2014",
+			"id": "10downing"
+		}
+	]		
+}
